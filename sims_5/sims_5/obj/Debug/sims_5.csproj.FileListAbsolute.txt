@@ -1,0 +1,10 @@
+C:\Users\111\source\repos\sims_5\sims_5\bin\Debug\sims_5.exe.config
+C:\Users\111\source\repos\sims_5\sims_5\bin\Debug\sims_5.exe
+C:\Users\111\source\repos\sims_5\sims_5\bin\Debug\sims_5.pdb
+C:\Users\111\source\repos\sims_5\sims_5\obj\Debug\sims_5.csprojResolveAssemblyReference.cache
+C:\Users\111\source\repos\sims_5\sims_5\obj\Debug\sims_5.Form1.resources
+C:\Users\111\source\repos\sims_5\sims_5\obj\Debug\sims_5.Properties.Resources.resources
+C:\Users\111\source\repos\sims_5\sims_5\obj\Debug\sims_5.csproj.GenerateResource.Cache
+C:\Users\111\source\repos\sims_5\sims_5\obj\Debug\sims_5.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\sims_5\sims_5\obj\Debug\sims_5.exe
+C:\Users\111\source\repos\sims_5\sims_5\obj\Debug\sims_5.pdb
